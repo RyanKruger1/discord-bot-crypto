@@ -1,0 +1,26 @@
+{
+  "name": "discord-bot_crypto",
+  "version": "1.0.0",
+  "description": "Crypto bot to show your crypto situation",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon .",
+    "test": "npm test"
+  },
+  "keywords": [
+    "crypto"
+  ],
+  "author": "Ryan Kruger",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "discord": "^0.8.2",
+    "discord.js": "^12.5.1",
+    "dotenv": "^14.3.0",
+    "get-eth-price": "^1.0.0",
+    "moment": "^2.29.1",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.15",
+    "sequelize": "^6.14.1"
+  }
+}
