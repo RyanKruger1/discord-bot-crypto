@@ -146,6 +146,3 @@ exports.getBalance = (msg) => {
             console.log(error);
         });
 }
-
-
-fr
