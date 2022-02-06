@@ -1,7 +1,7 @@
 # discord-bot-crypto
 Reads my crypto currencies associated to a luno account.
 
-This project uses 3 npm packages:
+This project uses 3 main npm packages:
 - discordjs
 - axios
 - sequelize
